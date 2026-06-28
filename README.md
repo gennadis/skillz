@@ -1,0 +1,15 @@
+https://github.com/mattpocock/ai-engineer-workshop-2026-project
+https://www.aihero.dev/setting-up-the-repo-3qgzu
+https://www.aihero.dev/getting-started-with-ralph
+https://github.com/ghuntley/how-to-ralph-wiggum
+https://github.com/umputun/cc-thingz/tree/master
+https://p.umputun.com/2026/02/12/ai-agents-2026/
+https://www.youtube.com/watch?v=-QFHIoCo-Ko&t=84s
+https://ghuntley.com/ralph/
+https://www.youtube.com/watch?v=6w65b8HWU8g
+https://github.com/mikeyobrien/ralph-orchestrator
+https://github.com/snarktank/ralph
+https://ralphex.com
+https://ghuntley.com/loop/
+https://www.youtube.com/watch?v=F5wxBoGSWtk
+https://github.com/umputun/cc-thingz/tree/master
